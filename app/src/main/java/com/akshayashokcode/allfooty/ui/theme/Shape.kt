@@ -1,4 +1,4 @@
-package com.akshayashokcode.onefooty.ui.theme
+package com.akshayashokcode.allfooty.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
